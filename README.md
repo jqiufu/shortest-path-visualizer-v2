@@ -1,6 +1,6 @@
-# shortest-path-visualizer
+# shortest-path-visualizer-v2
 
-A shortest path algorithm visualizer. The algorithm used is Dijkstra's shortest path algorithm.
+A shortest path algorithm visualizer. The algorithm used is Dijkstra's shortest path algorithm. This is the most recent iteration of the app.
 
 # How to set up
 
