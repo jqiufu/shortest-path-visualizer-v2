@@ -330,10 +330,6 @@ const Visualizer = () => {
     [buttonType, dijkstrasGrid]
   );
 
-  // TODO: Make the buttons look better, show the toggles, disable the visualization button when
-  // visualizying and when start or target have not been selected. Add an instruction button with
-  // a modal.
-
   return (
     <div style={visualizerStyles}>
       <ButtonsBar
