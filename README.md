@@ -2,6 +2,8 @@
 
 A shortest path algorithm visualizer. The algorithm used is Dijkstra's shortest path algorithm. This is the most recent iteration of the app.
 
+You can test the project live at: https://jqiufu.github.io/shortest-path-visualizer-v2/
+
 # How to set up
 
 To set up this project locally,
