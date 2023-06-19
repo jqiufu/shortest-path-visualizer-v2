@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shortest-path-visualizer-v2/static/css/main.1b2fc447.css",
+    "main.js": "/shortest-path-visualizer-v2/static/js/main.7eb4ace1.js",
+    "static/js/787.f7638438.chunk.js": "/shortest-path-visualizer-v2/static/js/787.f7638438.chunk.js",
+    "index.html": "/shortest-path-visualizer-v2/index.html",
+    "main.1b2fc447.css.map": "/shortest-path-visualizer-v2/static/css/main.1b2fc447.css.map",
+    "main.7eb4ace1.js.map": "/shortest-path-visualizer-v2/static/js/main.7eb4ace1.js.map",
+    "787.f7638438.chunk.js.map": "/shortest-path-visualizer-v2/static/js/787.f7638438.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b2fc447.css",
+    "static/js/main.7eb4ace1.js"
+  ]
+}
